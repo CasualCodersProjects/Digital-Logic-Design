@@ -9,7 +9,10 @@ Let us know if you do anything using this. It's a pain to work with, but it can 
 There are schematics associated with each of these gates in their respecitve folders. They're full kicad projects. That should provide enough context for what the circuit does. For immediate reference, the footprints are provided below.
 
 ## The full board
+![Decoder](./Images/Full%20Decoder.png)
 
+### It's associated logic experssions.
+![Logic Expressions](./Images/Good%20Expressions.png)
 
 ## The Inverter
 ![inverter](./Images/Inverter.png)
